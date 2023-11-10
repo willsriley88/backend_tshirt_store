@@ -1,0 +1,5 @@
+Order details:
+	Name: 454551
+	Phone number: 05555555555
+	Item: The Simpsons (576857394)
+	Size: Small
